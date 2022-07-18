@@ -1,0 +1,8 @@
+{{ if eq .Params.hasjson true }}
+<ul>
+<li>    {{range .Site.Data.states}}    
+{{.Label}}</li>
+{{end}}
+</ul>
+{{ end }}
+

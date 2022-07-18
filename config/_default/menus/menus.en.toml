@@ -1,0 +1,51 @@
+
+[[guide]]
+  name = "Lorem"
+  weight = 10
+  identifier = "lorem"
+  url = "/guide/lorem/"
+
+[[tutorial]]
+  name = "Lorem"
+  weight = 10
+  identifier = "lorem"
+  url = "/tutorial/lorem/"
+
+[[main]]
+  name = "Dashboards"
+  url = "/docs/"
+# url = "/docs/"
+  weight = 10
+
+
+
+[[main]]
+  name = "Project Updates"
+  url = "/blog/"
+  weight = 20
+
+#[[main]]
+ # name = "Operations"
+ # weight = 30
+ # identifier = "operations"
+ # url = "/operations"
+
+# [[main]]
+ # name = "Processes"
+ # weight = 40
+ # identifier = "processes"
+ # url = "/operations/processes/"
+ # parent = "operations"
+
+#[[main]]
+ # name = "Policies"
+  # weight = 50
+ # identifier = "policies"
+ # url = "/operations/policies/"
+ 
+
+
+# [[footer]]
+#   name = "Privacy"
+#   url = "/privacy-policy/"
+#   weight = 10

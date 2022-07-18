@@ -1,0 +1,2095 @@
+[{
+    "App": "Care-Acuity",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Diagnosis Report",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "# of Residents by Diagnosis Type",
+    "SheetTitle": "Diagnosis Report",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Diagnoses by Resident",
+    "SheetTitle": "Diagnosis Report",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Mobility Device Used",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Resident Details",
+    "SheetTitle": "Resident Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Residents by Age Group",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Residents by Care Level",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Residents by Gender",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Residents by Med Level",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Acuity",
+    "ObjectTitle": "Upcoming Items",
+    "SheetTitle": "Resident Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "STL Report",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "STL Report",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "'% of Residents with T12 Care Level Changes'",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "@{qStringExpression=}",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "# of Residents with Assessed vs. Billing Variance",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "=if([# Resident Variance] = 1, 'resident', 'residents')&' with variance'",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Assessed vs. Billed Variance",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Assessed vs. Billing by Resident and Variance Age",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Assessments overdue",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Care History Summary",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Care Level Changes and Resident Assessments by Month",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Current Resident Assessment",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "fact_CareVariance",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "fact_table",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Overdue Assessments by Community",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Residents on Short Term Leave",
+    "SheetTitle": "STL Report",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "residents with change in care level",
+    "SheetTitle": "Assessment Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Assessment",
+    "ObjectTitle": "Toggle table view",
+    "SheetTitle": "Assessment Details",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Analysis",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Analysis",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Details",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Overview",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Overview",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Overview",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "@{qStringExpression=}",
+    "SheetTitle": "Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "# of Incidents",
+    "SheetTitle": "Details",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "# of Incidents by Hour",
+    "SheetTitle": "Analysis",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "# of Incidents Over Time",
+    "SheetTitle": "Overview",
+    "ObjectType": "linechart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Average # of Incidents per Resident",
+    "SheetTitle": "Overview",
+    "ObjectType": "linechart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Average Incidents per Resident",
+    "SheetTitle": "Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Average Incidents per Week T30",
+    "SheetTitle": "Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Average Time to Report",
+    "SheetTitle": "Analysis",
+    "ObjectType": "gauge"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "fact_table",
+    "SheetTitle": "Overview",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Incident Details",
+    "SheetTitle": "Analysis",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Incident Details",
+    "SheetTitle": "Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Incidents",
+    "SheetTitle": "Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Incidents by Indicator",
+    "SheetTitle": "Overview",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Incidents by Outcome",
+    "SheetTitle": "Overview",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Care-Incident",
+    "ObjectTitle": "Residents with Frequent Incidents",
+    "SheetTitle": "Analysis",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Assignment Management",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Task Details",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Task Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Task Details",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "# of Incomplete Tasks",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "# of Incomplete Tasks by Reason",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "% Mobile Completion by Community and Resource Role",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Additional & Ad-Hoc Tasks",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Additional ADL Minutes per Day",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average ADL Minutes per Hour",
+    "SheetTitle": "Assignment Management",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "average daily minutes",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Daily Minutes by Resident",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Daily Minutes per Resident",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Daily Minutes per Resident",
+    "SheetTitle": "Assignment Management",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Daily Minutes per Resource Role",
+    "SheetTitle": "Assignment Management",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Average Daily Minutes per Service",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Details",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "fact_ADL",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Incomplete Tasks",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "container"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Resident Task Overview",
+    "SheetTitle": "Task Details",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Task Details",
+    "SheetTitle": "Task Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Tasks",
+    "SheetTitle": "Additional and Ad-Hoc Task Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Tasks Completed by Mobile",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Tasks Incomplete",
+    "SheetTitle": "ADL Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Care-Tasks",
+    "ObjectTitle": "Total ADL Minutes by Date and Type",
+    "SheetTitle": "Assignment Management",
+    "ObjectType": "linechart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "container"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "table"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "container"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "table"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "QE Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Average Scores by Department",
+    "SheetTitle": "QE Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Change in Scores per Community",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Change in Scores per Dept",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "First Comparison Round:",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Most Recent Net Score by Community",
+    "SheetTitle": "QE Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "PTC Passed by Community",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "PTC Passed by Department",
+    "SheetTitle": "PTC Dashboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "QE Dashboard Links",
+    "SheetTitle": "QE Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Scores Over Time",
+    "SheetTitle": "QE Summary",
+    "ObjectType": "linechart"
+},
+{
+    "App": "Quality-QualityEnhancement",
+    "ObjectTitle": "Second Comparison Round:",
+    "SheetTitle": "Performance Variances",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "qlik-date-picker"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "qlik-date-picker"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "# Open PTCs",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "# Trip Reports Closed By Trip Report",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "% of PTCs Complete",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "='# Trip Reports Closed By Community'",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Avg Age of PTCs",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Conducted by Summary",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "table"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Pass %",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Pass % By Community",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Pass Percent vs. Count of Trip Reports, by Community",
+    "SheetTitle": "Trip Report Summary",
+    "ObjectType": "scatterplot"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Question Detail",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "table"
+},
+{
+    "App": "Quality-TripReports",
+    "ObjectTitle": "Since last Trip",
+    "SheetTitle": "Trip Report PTC Dashboard",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Advised Rate Variance Leaderboard",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Move In Detail",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pricing Review",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "ecraft-kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trends",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance",
+    "SheetTitle": "Pricing Review",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance Detail",
+    "SheetTitle": "Pricing Review",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance T30 by Community",
+    "SheetTitle": "Advised Rate Variance Leaderboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance T30 by RVP",
+    "SheetTitle": "Advised Rate Variance Leaderboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Advised Rate Variance T30 by SVP",
+    "SheetTitle": "Advised Rate Variance Leaderboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "AL One Bedroom",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "AL Studio",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "AL Two Bedroom",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Days To Convert",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "IL One Bedroom",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "IL STUDIO",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "IL Studio",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "IL Two Bedroom",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Initial Tours",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Inquiry To Tour",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "LG Private",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "LG Private",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "LG Semi-Private",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "LG Semi-Private",
+    "SheetTitle": "Pricing Review â€“ By Room Type",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Long Term Move In Trends",
+    "SheetTitle": "Trends",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Long Term Move In Trends Detail",
+    "SheetTitle": "Trends",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Move In Detail",
+    "SheetTitle": "Move In Detail",
+    "ObjectType": "table"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Move In Rate",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Move Ins",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Net Move Ins",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "New Inquiries",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Selling Rates",
+    "SheetTitle": "Pricing Review",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Selling Rates Detail",
+    "SheetTitle": "Pricing Review",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Tour To Move In",
+    "SheetTitle": "Revenue Metrics",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Tours - Conversions",
+    "SheetTitle": "Trends",
+    "ObjectType": "combochart"
+},
+{
+    "App": "Revenue-CorporatePricingDashboard",
+    "ObjectTitle": "Tours - Conversions Detail",
+    "SheetTitle": "Trends",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "container"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "qlik-multi-kpi"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "container"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "qlik-multi-kpi"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rate Increase Outlook",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "action-button"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "container"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "qlik-multi-kpi"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "table"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Resident Level Detail",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "Effective % by Community",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "Progress to Target",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "gauge"
+},
+{
+    "App": "Revenue-RateIncreaseTool",
+    "ObjectTitle": "Rate Increase by Status",
+    "SheetTitle": "Rate Increase Leaderboard",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Not Rent Ready Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Not Rent Ready Details",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Not Rent Ready",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Not Rent Ready By Community",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Not Rent Ready By Division\/Region",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Not Rent Ready By Room Type",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Not Rent Ready Details",
+    "SheetTitle": "Not Rent Ready Details",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Rent Ready",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Tasks Completed",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Tasks Not Started",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Tasks Not Started By Community",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Tasks Not Started By Task Type",
+    "SheetTitle": "Room Turn Task Summary",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Revenue-RoomTurnTracker",
+    "ObjectTitle": "Vacant Apartments",
+    "SheetTitle": "Room Turn Summary",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Compliance",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Compliance",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Compliance",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Compliance",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "'Line of Sight'",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "@{qStringExpression=}",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "% Allowance to Move In Rate",
+    "SheetTitle": "Compliance",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "% Rate Compliance",
+    "SheetTitle": "Compliance",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Inquiries (last 6 months)",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Inquiries Pacing",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Inquiries Pacing to Target",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Line of Sight",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Line of Sight to Move In Target",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Move Ins (last 6 months)",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "T30 Personal MI",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "T30 Professional MI",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "T30 Rate Compliance",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Tours (last 6 months)",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Tours Pacing",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Leaderboard",
+    "ObjectTitle": "Tours Pacing to Target",
+    "SheetTitle": "Trajectories",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Active Database",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Active Database",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Active Database",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "text-image"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Management",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Management",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Management",
+    "ObjectType": "qlik-multi-kpi"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "'Line of Sight'",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "@{qStringExpression=}",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "@{qStringExpression=}",
+    "SheetTitle": "Database Management",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "='Occupancy Today is '&\nnum(\ncount({<IsOccupiedFlg={1},MonthYear=,Status=>}IsOccupiedFlg) \/ count(IsOccupiedFlg),\n'#,##0.0%;(#,##0.0%)')",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "treemap"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "=num(Count({<ActiveCRMStatus={'Active'},CareType=,RoomTypeStyleCode=>}InquiryStatusDate),'#,##0.;(#,##0.)')&' Active Inquiries'\n",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "=num(Count({<IsOccupiedFlg={'0'}, IsOfflineFlg={'0'}, FactType={'10'}>+<IsSemiPrivateResidentFlg={'1'}, IsOfflineFlg={'0'}, SemiRate={\">0\"}, FactType={'10'}>}[IsOccupiedFlg]),'#,##0.;(#,##0.)')\n&' Available Rooms -- '&num(sum({<IsOccupiedFlg={0}, IsOfflineFlg={'0'}, MonthYear=, Status=>}SpecialRate)\n+\nsum({<IsSemiPrivateResidentFlg={'1'}, IsOfflineFlg={'0'}, SemiRate={\">0\"}, MonthYear=, Status=>}SemiRate),'$#,##0.;($#,##0.)')&' Revenue Potential'",
+    "SheetTitle": "Today's Snapshot",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Inquiries (last 6 months)",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Inquiries Pacing",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Inquiries Pacing to Target",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Line of Sight",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Line of Sight to Move In Target",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Move Ins (last 6 months)",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "T30 Personal MI",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "T30 Professional MI",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "T30 Rate Compliance",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Tours (last 6 months)",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Tours Pacing",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Tours Pacing to Target",
+    "SheetTitle": "Community Overview",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Management",
+    "ObjectTitle": "Use these buttons to view detail.",
+    "SheetTitle": "Database Management",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "kpi"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "eLead Organization Metrics",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "eLead Organization Metrics",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "eLead Organization Metrics",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pacing Sales Metrics",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Pacing Sales Metrics",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Potential Duplicate Inquiries",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Potential Duplicate Inquiries",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rescheduled Journals",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Rescheduled Journals",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Respite Rent Roll",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Details",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Details",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Details",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Details",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "qlik-multi-kpi"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "='# of Journals Rescheduled 4 or More Times'",
+    "SheetTitle": "Rescheduled Journals",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "='Database Advancements in the last'&if(vStatusRange = 'LastWeek', ' 7 Days', if(vStatusRange = '90Days', ' 90 Days', ' 30 Days'))",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "='Speed to Connect By Community (hrs)'",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Biography",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Biography",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Budget",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Budget",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Current Living Situation",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Current Living Situation",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Desired Room Type",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Desired Room Type",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Details",
+    "SheetTitle": "Database Advancements",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Discovery Notes",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Discovery Notes",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "eLead Effectiveness",
+    "SheetTitle": "eLead Organization Metrics",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Journal Detail",
+    "SheetTitle": "Rescheduled Journals",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Biography",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Budget",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Current Living Situation",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Desired Room Type",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Discovery Notes",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Objections",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing Time Frame",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Missing What Prompted Search",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Objections",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Objections",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Potential Duplicate Inquiries in Reserved or Closing Status",
+    "SheetTitle": "Potential Duplicate Inquiries",
+    "ObjectType": "table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Sales Metrics by Year and Month",
+    "SheetTitle": "Pacing Sales Metrics",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Speed to Connect Trend (hrs)",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Speed to Connect vs % Toured",
+    "SheetTitle": "Speed to Connect Performance",
+    "ObjectType": "scatterplot"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Time Frame",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "Time Frame",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "What Prompted Search",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "What Prompted Search",
+    "SheetTitle": "Discovery Utilization",
+    "ObjectType": "x-kpi-4"
+},
+{
+    "App": "Sales-PerformanceAnalytics",
+    "ObjectTitle": "-",
+    "SheetTitle": "untitled",
+    "ObjectType": "-"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "container"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "qlik-button-for-navigation"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Year over Year Metrics",
+    "ObjectType": "filterpane"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "untitled",
+    "SheetTitle": "Year over Year Metrics",
+    "ObjectType": "qlik-variable-input"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "='% of Inquiries Not Qualified by Month'",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "=IF(GetSelectedCount(CommunityName)=1, GetFieldSelections(CommunityName) & ' Key Indicators', '')",
+    "SheetTitle": "Year over Year Metrics",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "=vTestButton& ' By Care Type'",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "treemap"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "=vTestButton& ' By Current Status'",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "treemap"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "=vTestButton& ' Over Time'",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "pivot-table"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "By Competitor",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "By Desired Service",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "treemap"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "By Not Qualified Category",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "By Referral Source",
+    "SheetTitle": "Not Qualified",
+    "ObjectType": "barchart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "By What Influenced Their Decision",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "piechart"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "Desired Service",
+    "SheetTitle": "Lost to Competitor",
+    "ObjectType": "treemap"
+},
+{
+    "App": "Sales-Trends",
+    "ObjectTitle": "vTestButton& ' by Organization'",
+    "SheetTitle": "Trend Analysis",
+    "ObjectType": "barchart"
+}
+]
