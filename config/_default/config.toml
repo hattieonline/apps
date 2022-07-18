@@ -1,5 +1,5 @@
 baseurl = "https://62d588030310730ee3dbc9c2--effervescent-kitsune-86356b.netlify.app/"
-canonifyURLs = true
+canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
