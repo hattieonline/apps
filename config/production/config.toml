@@ -1,2 +1,2 @@
-canonifyURLs = false
+canonifyURLs = true
 baseURL = "https://62d59c63dffdbe0009776ff0--effervescent-kitsune-86356b.netlify.app/"
