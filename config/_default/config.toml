@@ -1,4 +1,4 @@
-baseurl = "https://main--effervescent-kitsune-86356b.netlify.app/"
+baseurl = "https://effervescent-kitsune-86356b.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
